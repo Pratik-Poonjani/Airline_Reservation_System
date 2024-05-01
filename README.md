@@ -77,8 +77,10 @@ __Integration Capabilities:__
 
 #### Clone the Repository:
 
- - git clone 
-`https://github.com/yourusername/airline-reservation-system.git`
+ - Setup
+```
+git clone https://github.com/Pratik-Poonjani/Airline_Reservation_System.git
+```
 
 #### Database Setup:
  - Install MySQL and create a new database named airline_db.
